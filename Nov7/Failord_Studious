@@ -1,0 +1,54 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the
+following questions.
+
+You will need to create a file that is named your username and paste your answers in it.
+After you have completed the questions, submit a pull request in this same repository.
+
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java? 
+Before learning to solve problems, you must learn a new language.
+
+2) What is learning to program ultimately about?
+Learning to think logically and approach problems methoically.
+
+3) How does Scratch "lower the bar" to programming?
+It removes focus on syntax and allows you to focus on problems. (Originally my off-the-top-of-my-head answer)
+
+4) What is a statement in a programming language?
+Directive that instructs the computer to do something.
+
+5) What is a Boolean expression?
+A part of a statement that reports as "true" or "false"
+
+6) What is a conditional statement?
+Something that must report as "true" to be executed.
+
+7) What is a loop used for in a programming language?
+Multiple executions of the same code.
+
+8) What is the difference between a local variable and a global variable?
+A local variable only changes for that sprite, while all sprites change globals.
+
+9) What is a Boolean variable?
+A variable used as a boolean. i.e. <(salty)=(yes)>
+
+10) Which type of blocks in Scratch can be considered threads?
+"Hat" blocks, formally known as Event blocks.
+
+11) Which type of blocks in Scratch can be considered event handlers?
+GF clicked, broadcasts and recieve broadcasts.
+
+12) How many sprites are implemented in Oscartime?
+9
+
+13) How many threads are used to display the Oscartime game instructions?
+19
+
+14) How many threads are used by Oscartime's Oscar sprite?
+3
+
+15) What programming constructs does Scratch NOT support?
+methods, which allow you pass control of execution from one sequence of blocks to another;
+parameters, which allow you to influence the behavior of methods;
+return values, which allow one sequence of blocks to "return" information to another;
+inheritance and polymorphism, which allow relationships to exist among data structures. (Yes, PLAIGAIRISM, but I read it all)
